@@ -1,0 +1,25 @@
+{
+    "name": "Unit0 Testnet",
+    "timestamp": "2024-04-29T18:27:01.188Z",
+    "version": {
+        "major": 11,
+        "minor": 19,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://swop.fi/static/media/swop-icon.21002f7f79c39f0ee53fce36dff129af.svg",
+    "keywords": [
+        "unit0",
+        "default"
+    ],
+    "tokens": [
+        {
+            "chainId": 88817,
+            "address": "0x783777f267fA1E2c95c202a0E3da7107c0FAFE8B",
+            "name": "SWOP",
+            "symbol": "SWOP",
+            "decimals": 8,
+            "logoURI": "https://swop.fi/static/media/swop-icon.21002f7f79c39f0ee53fce36dff129af.svg"
+        }
+    ]
+}
